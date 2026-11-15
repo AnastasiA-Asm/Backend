@@ -1,0 +1,3 @@
+fastapi[standard]
+pytest
+pydantic>=2,<3
